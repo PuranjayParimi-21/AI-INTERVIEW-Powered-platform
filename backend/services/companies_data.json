@@ -1,0 +1,5091 @@
+{
+    "google": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Vite",
+            "Karma"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "Java",
+            "gRPC / Protocol Buffers",
+            "C++"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "JAX",
+            "BigQuery",
+            "Deep Learning"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP (Google Cloud)",
+            "Kubernetes (Borg)",
+            "Terraform"
+        ],
+        "resources": [
+            "Google Cloud Platform Architect Course",
+            "Google Site Reliability Engineering guidelines"
+        ]
+    },
+    "microsoft": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "TypeScript",
+            "React",
+            "Fluent UI",
+            "Webpack"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core / ASP.NET",
+            "MS SQL Server",
+            "Entity Framework"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Azure ML",
+            "PyTorch",
+            "PowerBI",
+            "Azure Synapse"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure DevOps",
+            "Microsoft Azure Cloud",
+            "ARM Templates"
+        ],
+        "resources": [
+            "Microsoft Certified: Azure Solutions Architect",
+            ".NET Core API design documentation"
+        ]
+    },
+    "meta": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "GraphQL",
+            "Relay"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "PHP / Hack",
+            "C++",
+            "GraphQL APIs"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "Neural Networks",
+            "Deep Learning",
+            "Presto"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "Chef",
+            "Internal cloud automation"
+        ],
+        "resources": [
+            "GraphQL Official Tutorials",
+            "PyTorch Deep Learning specialization"
+        ]
+    },
+    "amazon": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Webpack"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java (AWS service stack)",
+            "C++",
+            "Distributed Systems Design",
+            "DynamoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "AWS SageMaker",
+            "Spark / EMR",
+            "Redshift",
+            "Machine Learning Algorithms"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS (EC2, S3, ECS, Lambda)",
+            "CloudFormation",
+            "Terraform"
+        ],
+        "resources": [
+            "AWS Certified Solutions Architect",
+            "Amazon Leadership Principles training"
+        ]
+    },
+    "netflix": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Node.js",
+            "TypeScript"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java & Spring Boot",
+            "Netflix OSS (Eureka, Zuul)",
+            "Apache Kafka",
+            "Cassandra"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark / EMR",
+            "Notebooks (Jupyter)",
+            "A/B Testing",
+            "Recommender Systems"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Spinnaker",
+            "Kubernetes (Titus)",
+            "Terraform"
+        ],
+        "resources": [
+            "Netflix Tech Blog Microservices guides",
+            "Apache Kafka Event Streaming course"
+        ]
+    },
+    "apple": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Swift",
+            "C++",
+            "Objective-C Runtime"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "CoreML",
+            "Statistics",
+            "Data Mining"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "Apple Cloud Services",
+            "Ansible"
+        ],
+        "resources": [
+            "Apple Developer Documentation",
+            "SwiftUI and Swift Systems Programming"
+        ]
+    },
+    "salesforce": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Lightning Web Components (LWC)",
+            "Aura Framework",
+            "TypeScript"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Apex",
+            "SOQL / SOSL",
+            "Java",
+            "Salesforce DX"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Einstein AI",
+            "Tableau",
+            "SQL",
+            "Data Modeling"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Heroku",
+            "Salesforce CLI",
+            "Jenkins",
+            "AWS Services"
+        ],
+        "resources": [
+            "Trailhead Salesforce Developer Certification",
+            "LWC developer guides"
+        ]
+    },
+    "adobe": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Spectrum UI"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "C++",
+            "Node.js",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Adobe Sensei (AI)",
+            "Python",
+            "SQL",
+            "Machine Learning"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Cloud",
+            "AWS Cloud",
+            "Terraform",
+            "Docker"
+        ],
+        "resources": [
+            "Adobe Developer Platform SDK guides",
+            "Cloud Systems Architecture course"
+        ]
+    },
+    "spotify": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Next.js",
+            "Web API"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Python",
+            "C++",
+            "Backstage developer portals"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Python",
+            "Music Recommendation Algorithms"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP (Google Cloud)",
+            "Docker",
+            "Kubernetes (Helios)",
+            "Terraform"
+        ],
+        "resources": [
+            "Spotify Tech Blog: Agile Squads & Backstage Portal tutorials"
+        ]
+    },
+    "stripe": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Design Systems"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Ruby",
+            "Go (Golang)",
+            "Java",
+            "Stripe API & Webhooks"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Python",
+            "SQL",
+            "Spark",
+            "Fraud Detection Algorithms"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Puppet",
+            "Terraform",
+            "Docker"
+        ],
+        "resources": [
+            "Stripe API Documentation & Integration Guides",
+            "Ruby on Rails guide"
+        ]
+    },
+    "uber": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Base Web UI"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "Java",
+            "Python",
+            "Cassandra",
+            "Schemaless DB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Michelangelo (ML Platform)",
+            "Python",
+            "Spark",
+            "Spatial Data Analysis"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "Multi-region Hybrid Cloud",
+            "Prometheus"
+        ],
+        "resources": [
+            "Uber Engineering Blog: Microservice architecture guides"
+        ]
+    },
+    "airbnb": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Sass",
+            "Responsive Web Design"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Ruby on Rails",
+            "Java",
+            "Node.js",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Python",
+            "SQL",
+            "R",
+            "Search Ranking Algorithms"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Chef",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "Airbnb Tech Blog: React and Ruby on Rails framework guides"
+        ]
+    },
+    "nvidia": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "D3.js"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C++",
+            "C",
+            "Python",
+            "CUDA",
+            "Linux Core development"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "CUDA Programming",
+            "Deep Learning",
+            "TensorRT",
+            "Computer Vision"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "On-prem GPU clusters",
+            "Docker",
+            "Kubernetes",
+            "Ansible"
+        ],
+        "resources": [
+            "NVIDIA Developer Zone: CUDA & Deep Learning Institute (DLI) training"
+        ]
+    },
+    "tesla": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "C++ (Embedded UI)"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C++",
+            "Go (Golang)",
+            "Python",
+            "Rust",
+            "SQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Autopilot Neural Networks",
+            "PyTorch",
+            "Computer Vision",
+            "C++ Simulation"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS Cloud",
+            "Linux Kernels"
+        ],
+        "resources": [
+            "Embedded C++ & Real-time Systems programming",
+            "PyTorch Computer Vision guides"
+        ]
+    },
+    "spacex": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "C++ (Telemetry Visuals)"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C++",
+            "C",
+            "Python",
+            "Real-time systems"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Python",
+            "MATLAB",
+            "Telemetry Data Analysis",
+            "Physics Simulations"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Linux Real-Time kernels",
+            "Docker",
+            "Puppet",
+            "Bare-metal CI/CD"
+        ],
+        "resources": [
+            "C++ Flight Software development practices",
+            "Linux Kernel & Real-time OS guidelines"
+        ]
+    },
+    "coinbase": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "React Native",
+            "TypeScript"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "Ruby",
+            "Node.js",
+            "Blockchain Nodes",
+            "Solidity"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Python",
+            "SQL",
+            "Fraud analysis",
+            "Blockchain data modeling"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "Kubernetes",
+            "Zero-Trust Security"
+        ],
+        "resources": [
+            "Solidity & Ethereum Smart Contract guides",
+            "Blockchain protocol basics"
+        ]
+    },
+    "github": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "TypeScript",
+            "Vanilla JS",
+            "Primer CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Ruby on Rails",
+            "Go (Golang)",
+            "MySQL",
+            "Git Internal APIs"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Python",
+            "SQL",
+            "Natural Language Processing (Copilot models)"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Bare metal",
+            "Azure Cloud",
+            "Docker",
+            "GitHub Actions CI/CD"
+        ],
+        "resources": [
+            "GitHub Actions & APIs development guides",
+            "Ruby on Rails scalability practices"
+        ]
+    },
+    "figma": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "WebAssembly (WASM)",
+            "WebGL / Canvas"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C++",
+            "Rust",
+            "Go (Golang)",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Python",
+            "SQL",
+            "User metrics analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "Docker",
+            "Kubernetes"
+        ],
+        "resources": [
+            "WebGL & WebAssembly programming",
+            "Rust Systems Programming guides"
+        ]
+    },
+    "paypal": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "robinhood": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "block": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "square": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "affirm": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "plaid": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "sofi": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "chime": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "visa": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "mastercard": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "goldman sachs": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "morgan stanley": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "jp morgan": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "fidelity": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "citigroup": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "capital one": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "klarna": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "wise": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "shopify": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "ebay": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "etsy": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "wayfair": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "target": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "walmart": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "costco": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "bestbuy": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "ikea": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "instacart": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "grubhub": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "doordash": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "ubereats": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "delivery hero": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "grab": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "gojek": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "deliveroo": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "rappi": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "careem": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "zoom": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "slack": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "notion": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "asana": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "monday.com": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "clickup": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "trello": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "atlassian": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "jira": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "confluence": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "docusign": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "hubspot": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "zendesk": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "snowflake": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "databricks": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "splunk": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "datadog": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "dynatrace": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "new relic": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "crowdstrike": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "cloudflare": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "fastly": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "okta": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "auth0": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "zoominfo": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "twilio": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "dropbox": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "box": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "elastic": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "mongodb": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "hashicorp": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "confluent": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "palantir": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "unity": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "epic games": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "roblox": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "ea": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "nintendo": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "twitch": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "discord": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "canva": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "pinterest": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "reddit": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "quora": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "medium": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "substack": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "patreon": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "kickstarter": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "intel": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "amd": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "cisco": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "vmware": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "dell": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "hp": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    },
+    "lenovo": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Redux Toolkit",
+            "Bootstrap"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Spark",
+            "Hadoop",
+            "Data Warehousing"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Services",
+            "Docker",
+            "Jenkins"
+        ],
+        "resources": [
+            "Spring Boot & Java Enterprise tutorials",
+            "Apache Spark Big Data course"
+        ]
+    },
+    "samsung": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Angular",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "C#",
+            ".NET Core",
+            "SQL Server"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PowerBI",
+            "SQL",
+            "Statistics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Azure Services",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "resources": [
+            "ASP.NET Core Web API guides",
+            "Azure Fundamentals training"
+        ]
+    },
+    "lg": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "Next.js",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Go (Golang)",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "PyTorch",
+            "NLP",
+            "Machine Learning models"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "AWS (EKS)",
+            "CI/CD Actions"
+        ],
+        "resources": [
+            "Go Programming masterclass",
+            "Kubernetes Administrator (CKA) preparation"
+        ]
+    },
+    "sony": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Jupyter",
+            "SQL",
+            "Tableau"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "AWS Cloud",
+            "Terraform",
+            "GitHub Actions"
+        ],
+        "resources": [
+            "AWS Solutions Architect tutorials",
+            "Node.js Fullstack Bootcamp"
+        ]
+    },
+    "panasonic": {
+        "frontend": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Git",
+            "Responsive Design",
+            "Vue.js",
+            "TypeScript",
+            "Sass"
+        ],
+        "backend": [
+            "REST APIs",
+            "SQL",
+            "Git",
+            "Microservices",
+            "Python",
+            "FastAPI",
+            "PostgreSQL"
+        ],
+        "datascience": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "Predictive Analytics"
+        ],
+        "devops": [
+            "Linux / Bash",
+            "Docker Containers",
+            "CI/CD Pipelines",
+            "Git",
+            "GCP Services",
+            "Kubernetes",
+            "GitLab CI"
+        ],
+        "resources": [
+            "FastAPI Developer Guides",
+            "Google Cloud Platform Fundamentals"
+        ]
+    }
+}

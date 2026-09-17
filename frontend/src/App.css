@@ -1,0 +1,342 @@
+/* App-level global layout helpers and laptop-optimized dashboard grid rules */
+
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+.app-container {
+  display: flex;
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  position: relative;
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+.main-content {
+  flex: 1;
+  padding: 32px 36px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  min-height: 100vh;
+  position: relative;
+  z-index: 1;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.page-wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+/* Page Header Block */
+.page-header {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 1.2;
+  color: var(--text-primary);
+}
+
+.page-subtitle {
+  color: var(--text-secondary);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* Fluid Dashboard Grids (Optimized for Large Monitors, Laptops, Tablets, and Mobile) */
+
+/* Module Cards: 3 cards per row on Desktop & Laptop, 2 on Tablet, 1 on Mobile */
+.dashboard-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* KPI Cards: 4 cards per row on Desktop & Laptop, 2 on Tablet, 1 on Mobile */
+.dashboard-kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Split Analytics Section: 2 columns on Desktop & Laptop, 1 column on Tablet/Mobile */
+.dashboard-split-grid {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Standardized Responsive Card */
+.dashboard-module-card {
+  height: 100%;
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 24px;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+  border-radius: 20px;
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.25s ease;
+  word-break: break-word;
+  text-decoration: none;
+  color: inherit;
+}
+
+.dashboard-module-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--hover-shadow);
+  border-color: rgba(99, 102, 241, 0.4);
+}
+
+/* Left-to-Right Horizontal Scrolling Rows (------->) */
+.dashboard-horizontal-scroll-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  gap: 20px;
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 8px 4px 16px 4px;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  box-sizing: border-box;
+}
+
+/* Custom sleek gradient scrollbar */
+.dashboard-horizontal-scroll-row::-webkit-scrollbar {
+  height: 6px;
+}
+
+.dashboard-horizontal-scroll-row::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+}
+
+.dashboard-horizontal-scroll-row::-webkit-scrollbar-thumb {
+  background: var(--accent-gradient);
+  border-radius: 10px;
+}
+
+/* KPI items in left-to-right horizontal row */
+.kpi-horizontal-item {
+  flex: 0 0 280px;
+  min-width: 260px;
+}
+
+/* Module items in left-to-right horizontal row */
+.module-horizontal-item {
+  flex: 0 0 350px;
+  min-width: 320px;
+}
+
+/* Side-by-Side Horizontal Main Dashboard Layout */
+.dashboard-horizontal-main {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Horizontal KPI Grid */
+.dashboard-horizontal-kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Horizontal Module Cards Grid */
+.dashboard-horizontal-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Wide Horizontal Module Card Component */
+.dashboard-module-card.horizontal-card {
+  min-height: 92px;
+  height: auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  gap: 14px;
+}
+
+@media (max-width: 1200px) {
+  .dashboard-horizontal-main {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}
+
+@media (max-width: 900px) {
+  .dashboard-horizontal-kpi-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .dashboard-horizontal-cards-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .dashboard-horizontal-kpi-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Laptop Resolution Adaptations (1025px - 1440px) */
+@media (max-width: 1440px) {
+  .main-content {
+    padding: 24px 28px;
+  }
+  .dashboard-cards-grid {
+    gap: 18px;
+  }
+  .dashboard-kpi-grid {
+    gap: 16px;
+  }
+  .dashboard-module-card {
+    padding: 20px;
+  }
+}
+
+/* Medium Laptop / Small Screen Adaptations (1025px - 1240px) */
+@media (max-width: 1240px) {
+  .dashboard-kpi-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .dashboard-split-grid {
+    grid-template-columns: 1.2fr 1fr;
+    gap: 18px;
+  }
+}
+
+/* Tablet Resolution Adaptations (768px - 1024px) */
+@media (max-width: 1024px) {
+  .main-content {
+    padding: 20px 24px;
+  }
+  .dashboard-cards-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+  }
+  .dashboard-kpi-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  .dashboard-split-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Mobile Resolution Adaptations (<768px) */
+@media (max-width: 767px) {
+  .main-content {
+    padding: 16px;
+  }
+  .page-title {
+    font-size: 24px;
+  }
+  .dashboard-cards-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .dashboard-kpi-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .dashboard-split-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Custom interactive checkbox styling */
+.custom-checkbox {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--border-color);
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer;
+  display: inline-grid;
+  place-content: center;
+  transition: all 0.2s ease;
+  background-color: var(--bg-secondary);
+}
+
+.custom-checkbox:checked {
+  background-color: var(--accent-emerald);
+  border-color: var(--accent-emerald);
+}
+
+.custom-checkbox:checked::before {
+  content: '✓';
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* Tab underline indicator styling */
+.nav-tab {
+  padding: 10px 18px;
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: transparent;
+  border: none;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.nav-tab.active {
+  color: #ffffff;
+  background: var(--accent-gradient);
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.3);
+}
+
+.nav-tab:hover:not(.active) {
+  color: var(--text-primary);
+  background: var(--bg-tertiary);
+}
+

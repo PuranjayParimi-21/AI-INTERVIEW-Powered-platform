@@ -1,0 +1,13 @@
+{
+  "name": "careergpt-root",
+  "version": "1.0.0",
+  "description": "Root workspace to start CareerGPT frontend and backend concurrently",
+  "scripts": {
+    "start-frontend": "npm run dev --prefix frontend",
+    "start-backend": "cd backend && venv\\Scripts\\python.exe -m uvicorn main:app --reload --port 8000",
+    "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
